@@ -1,1 +1,23 @@
- font-family: "Playwrite DE SAS", cursive;
+body
+ { background-color: aquamarine;
+     color: antiquewhite; 
+     font-family: font-family: "Licorice", cursive;;
+      display: flex; 
+      justify-content:centar; 
+      height: 700px; 
+      margin: 0; } 
+
+ button { background-color: blue; 
+
+color: bisque;
+ font-family:font-family: "Licorice", cursive;; } 
+
+ .passo { 
+    display: nome; } 
+
+ .passo.ativo { 
+    display: block; } 
+
+ main {
+     text-align: center;
+        max-width: 90%; }
